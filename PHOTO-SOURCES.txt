@@ -1,0 +1,10 @@
+PHOTO SOURCES — hs-015-tdf TDF OC Electric (Wave 4 2026-09-19 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — residential electrical panel / breaker work (verified)
+services-trade.jpg — panel services (verified)
+job041-* — panel B/A typical (verified)
+job-elec-* — outdoor enclosure service set (verified)
+job052-* — circuit/tools typical (verified)
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — OC-style residential exterior
