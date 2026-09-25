@@ -1,10 +1,20 @@
-PHOTO SOURCES — hs-015-tdf TDF OC Electric (Wave 4 2026-09-19 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-015-tdf TDF OC Electric (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential electrical panel / breaker work (verified)
-services-trade.jpg — panel services (verified)
-job041-* — panel B/A typical (verified)
-job-elec-* — outdoor enclosure service set (verified)
-job052-* — circuit/tools typical (verified)
-people-* — tools/toolbox/crew — NOT owner face
-coverage-house.jpg — OC-style residential exterior
+hero-site.jpg <- wave11/elec-ladder-panel.jpg : ladder beside an open electrical panel (rawpixel CC0 5943800)
+services-trade.jpg <- wave11/elec-meter-cabinet.jpg : meter and breaker cabinet (Flickr PDM 49514987902)
+people-crew.jpg <- wave11/tool-belt.jpg : tool belt with hand tools (StockSnap CC0 7QLS6OXUNH)
+people-marek.jpg <- wave11/elec-wire-colors.jpg : colored wire ends (rawpixel CC0 5924439)
+people-tom.jpg <- cr0925/elec-switch-wall.jpg : Light Switch (stocksnap CC0 https://stocksnap.io/photo/light-switch-GCFFRMA9VR)
+coverage-house.jpg <- wave11/house-gabled-lawn.jpg : gabled single-family home with lawn (prior verified library wave2/house-suburb.jpg)
+elec-panel-back.jpg <- wave11/elec-panel-back.jpg : electrician at an open breaker panel, seen from behind, no face (StockSnap CC0 3A5FXM89OG)
+elec-breakers-row.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+elec-rough-box.jpg <- cr0925/elec-rough-box.jpg : 20220129-RD-LSC-0065 (flickr PDM https://www.flickr.com/photos/41284017@N08/51849999359)
+elec-fan-white.jpg <- cr0925/elec-fan-white.jpg : A ceiling fan with three dark blades is mounted on a decorative white ceiling ro (wordpress CC0 https://wordpress.org/photos/photo/315681c3cd/)
+elec-wiring-messy.jpg <- wave11/elec-wiring-messy.jpg : tangled old wiring in a worn box (StockSnap CC0 63670C8E97)
+elec-wires-wallbox.jpg <- wave11/elec-wires-wallbox.jpg : wires pulled through a wall opening (StockSnap CC0 NTBTAJYIOK)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: No license number on page.
