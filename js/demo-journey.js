@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panels, and wiring. Across Orange and Orange County. Traian looks at the job first and puts the price in writing.';
+            'Residential electrical, panels, and wiring in Orange. Traian looks at the job first and puts the price in writing.';
         }
       }
     },
